@@ -1,327 +1,294 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,35:312E81,70:6D28D9,100:8B5CF6&text=Maicol%20David%20Lagos&fontColor=FFFFFF&fontSize=42&fontAlignY=37&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Product%20Development&descAlignY=58&descSize=16&animation=fadeIn" alt="Header de Maicol David Lagos" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=null&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=48&lines=Engineering+profile+under+construction;Building+with+clarity%2C+quality+and+purpose;Professional+information%3A+NULL" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<a href="#"><img src="https://img.shields.io/badge/FORMACIÓN-NULL-312E81?style=flat-square&logo=academia&logoColor=white" alt="Formación académica" /></a>
-<a href="#"><img src="https://img.shields.io/badge/ESPECIALIDAD-NULL-5B21B6?style=flat-square&logo=proton&logoColor=white" alt="Especialidad" /></a>
-<a href="#"><img src="https://img.shields.io/badge/UBICACIÓN-NULL-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" /></a>
+![Education](https://img.shields.io/badge/Education-null-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-null-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br><br>
+<br/>
 
-<a href="#"><img src="https://img.shields.io/badge/PORTAFOLIO-NULL-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-NULL-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/EMAIL-NULL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/miikeepp"><img src="https://img.shields.io/badge/GITHUB-MIIKEEPP-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="null"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="null"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:null"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="null"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=miikeepp&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Visitas del perfil" />
-<img src="https://img.shields.io/github/followers/miikeepp?style=flat-square&color=6D28D9&label=FOLLOWERS&logo=github" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/miikeepp?style=flat-square&color=4F46E5&label=STARS&logo=github" alt="Estrellas" />
-
-</div>
-
----
-
-## 01. About
-
-Perfil profesional en construcción. La información sobre experiencia, formación, especialización y trayectoria permanece temporalmente como **NULL** hasta ser reemplazada por datos verificados.
-
-La estructura está preparada para presentar un perfil orientado a:
-
-- **Software Engineering:** NULL
-- **AI / Machine Learning:** NULL
-- **Full Stack Development:** NULL
-- **Product Engineering:** NULL
-- **Open Source:** NULL
-
-### Open To
-
-`NULL`
-
----
-
-## 02. Tech Stack
-
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Languages: NULL" />
-
-`NULL`
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Frontend: NULL" />
-
-`NULL`
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Backend and databases: NULL" />
-
-`NULL`
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Cloud DevOps and tooling" />
-
-`NULL`
+![Profile Views](https://komarev.com/ghpvc/?username=null&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/null?style=flat-square&color=7c3aed&label=Followers)
+![Stars](https://img.shields.io/github/stars/null?style=flat-square&color=6d28d9&label=Stars)
 
 </div>
 
 ---
 
-## 03. AI / ML Expertise
+## 🟣 About Me
+
+```
+const engineer = {
+    role: "Software Engineer & AI/ML Specialist",
+    focus: ["Full Stack Development", "Machine Learning", "Scalable Systems"],
+    philosophy: "Engineering thoughtful products, not just code",
+    currentlyOpenTo: ["Full-time Roles", "Freelance Projects", "Collaborations"]
+};
+```
+
+I'm a **software engineer** with a strong focus on **AI/ML systems**, **full-stack development**, and **product-driven engineering**. I enjoy designing systems that are not only functional but scalable, maintainable, and built with production-grade rigor. My work spans building intelligent applications, robust backend architectures, and clean, performant frontends — always with an eye toward real-world impact.
+
+**🎯 Open To:** Full-time opportunities · Freelance & contract work · Open-source collaboration · Technical mentorship
+
+---
+
+## 🟣 Tech Stack
+
+<div align="center">
+
+**Languages**
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark)
+
+**Frontend**
+![Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vue&theme=dark)
+
+**Backend & Databases**
+![Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql,redis&theme=dark)
+
+**Cloud, DevOps & Tooling**
+![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,linux&theme=dark)
+
+</div>
+
+---
+
+## 🟣 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning | `NULL` | NULL |
-| Deep Learning | `NULL` | NULL |
-| Natural Language Processing | `NULL` | NULL |
-| Computer Vision | `NULL` | NULL |
-| Generative AI | `NULL` | NULL |
-| MLOps | `NULL` | NULL |
+|---|---|---|
+| Machine Learning | ⭐⭐⭐⭐☆ | null |
+| Deep Learning | ⭐⭐⭐⭐☆ | null |
+| NLP / LLMs | ⭐⭐⭐⭐☆ | null |
+| Computer Vision | ⭐⭐⭐☆☆ | null |
+| MLOps | ⭐⭐⭐☆☆ | null |
+
+</div>
 
 ---
 
-## 04. Featured Projects
+## 🟣 Featured Projects
 
 <details>
-<summary><strong>Project 01 — NULL</strong></summary>
+<summary><b>🔹 null — Project Name</b></summary>
+<br/>
 
-<br>
+null (project description)
 
-**Project description:** NULL
+| Aspect | Details |
+|---|---|
+| **Stack** | null |
+| **Scale** | null |
+| **Performance** | null |
+| **Security** | null |
+| **Impact** | null |
+| **Repository** | [null](null) |
 
-| Dimension | Details |
-|:---|:---|
-| **Stack** | NULL |
-| **Scale** | NULL |
-| **Performance** | NULL |
-| **Security** | NULL |
-| **Impact** | NULL |
-| **Repository** | [NULL](#) |
-
-NULL
+null (professional project explanation)
 
 </details>
 
-<br>
-
 <details>
-<summary><strong>Project 02 — NULL</strong></summary>
+<summary><b>🔹 null — Project Name</b></summary>
+<br/>
 
-<br>
+null (project description)
 
-**Project description:** NULL
+| Aspect | Details |
+|---|---|
+| **Stack** | null |
+| **Scale** | null |
+| **Performance** | null |
+| **Security** | null |
+| **Impact** | null |
+| **Repository** | [null](null) |
 
-| Dimension | Details |
-|:---|:---|
-| **Stack** | NULL |
-| **Scale** | NULL |
-| **Performance** | NULL |
-| **Security** | NULL |
-| **Impact** | NULL |
-| **Repository** | [NULL](#) |
-
-NULL
+null (professional project explanation)
 
 </details>
 
-<br>
-
 <details>
-<summary><strong>Project 03 — NULL</strong></summary>
+<summary><b>🔹 null — Project Name</b></summary>
+<br/>
 
-<br>
+null (project description)
 
-**Project description:** NULL
+| Aspect | Details |
+|---|---|
+| **Stack** | null |
+| **Scale** | null |
+| **Performance** | null |
+| **Security** | null |
+| **Impact** | null |
+| **Repository** | [null](null) |
 
-| Dimension | Details |
-|:---|:---|
-| **Stack** | NULL |
-| **Scale** | NULL |
-| **Performance** | NULL |
-| **Security** | NULL |
-| **Impact** | NULL |
-| **Repository** | [NULL](#) |
-
-NULL
+null (professional project explanation)
 
 </details>
 
 ---
 
-## 05. Experience
+## 🟣 Experience
 
-### NULL — NULL
+### null — null
+**null**
 
-`NULL — NULL`
+null (professional description)
 
-NULL
+- null
+- null
+- null
 
-**Scope of work**
-
-- NULL
-- NULL
-- NULL
-- NULL
-
-<img src="https://img.shields.io/badge/SKILL-NULL-4C1D95?style=flat-square" alt="Skill NULL" />
-<img src="https://img.shields.io/badge/SKILL-NULL-5B21B6?style=flat-square" alt="Skill NULL" />
-<img src="https://img.shields.io/badge/SKILL-NULL-6D28D9?style=flat-square" alt="Skill NULL" />
+`null` `null` `null` `null`
 
 ---
 
-## 06. Achievements
+### null — null
+**null**
+
+null (professional description)
+
+- null
+- null
+- null
+
+`null` `null` `null` `null`
+
+---
+
+## 🟣 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| NULL | NULL |
-| NULL | NULL |
-| NULL | NULL |
+|---|---|
+| null | null |
+| null | null |
+| null | null |
 
 </div>
 
 ---
 
-## 07. Certifications
+## 🟣 Certifications
 
-### AWS
+**AWS**
 
-<img src="https://img.shields.io/badge/AWS-NULL-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS certification NULL" />
+![AWS](https://img.shields.io/badge/null-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Oracle
+**Oracle**
 
-<img src="https://img.shields.io/badge/ORACLE-NULL-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle certification NULL" />
+![Oracle](https://img.shields.io/badge/null-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### NPTEL
+**NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL-NULL-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL certification NULL" />
+![NPTEL](https://img.shields.io/badge/null-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
 
-### Cisco
+**Cisco**
 
-<img src="https://img.shields.io/badge/CISCO-NULL-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco certification NULL" />
+![Cisco](https://img.shields.io/badge/null-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
-## 08. Coding Profiles
+## 🟣 Coding Profiles
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LEETCODE-NULL-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-NULL-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HACKERRANK-NULL-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CODECHEF-NULL-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-null-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](null)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-null-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](null)
+[![HackerRank](https://img.shields.io/badge/HackerRank-null-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](null)
+[![CodeChef](https://img.shields.io/badge/CodeChef-null-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](null)
 
 </div>
 
 ---
 
-## 09. GitHub Analytics
+## 🟣 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=7C3AED&text_color=111827&ring_color=7C3AED&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=null&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=null&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=111827&langs_count=8" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" alt="Top Languages" />
-</picture>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=miikeepp&hide_border=true&background=09090B&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
 
 </div>
 
 ---
 
-## 10. GitHub Trophies
+## 🟣 GitHub Trophies
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=miikeepp&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=null&theme=radical&no-frame=true&column=7&margin-w=10)
 
 </div>
 
 ---
 
-## 11. Contribution Activity
+## 🟣 Contribution Activity
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=miikeepp&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=null&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
 
 </div>
 
 ---
 
-## 12. Contribution Snake
+## 🟣 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/null/null/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 13. Current Focus
+## 🟣 Current Focus
 
 ```yaml
-learning:
-  - NULL
-
-building:
-  - NULL
-
-exploring:
-  - NULL
-
-open_to:
-  - NULL
+current_focus:
+  learning:
+    - null
+    - null
+  building:
+    - null
+    - null
+  exploring:
+    - null
+    - null
+  open_to:
+    - Full-time roles
+    - Freelance projects
+    - Open-source collaboration
 ```
 
 ---
 
-## 14. Connect
+## 🟣 Connect With Me
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GMAIL-NULL-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-NULL-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/miikeepp"><img src="https://img.shields.io/badge/GITHUB-MIIKEEPP-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-NULL-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:null"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="null"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="null"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="null"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -329,8 +296,8 @@ open_to:
 
 <div align="center">
 
-**“NULL — professional quote pending.”**
+*"null"*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,45:6D28D9,75:312E81,100:09090B" alt="Footer banner" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
