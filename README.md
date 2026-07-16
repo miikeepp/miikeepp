@@ -32,22 +32,40 @@ No encierres todo este archivo entre ```markdown y ```.
 
 ## `01.` Sobre mí
 
-```javascript
-const maicol = {
-  nombre: "Maicol David Lagos",
-  usuario: "@miikeepp",
-  enfoque: [
-    "Desarrollo de software",
-    "Automatización",
-    "Aplicaciones web",
-    "Procesamiento de datos"
-  ],
-  mentalidad: "Crear, probar, aprender y mejorar.",
-  objetivo: "Convertir ideas en soluciones útiles y bien construidas."
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 Perfil</h3>
+      <p>
+        Soy <strong>Maicol David Lagos</strong>, desarrollador enfocado en crear
+        soluciones digitales claras, funcionales y fáciles de mantener.
+      </p>
+      <p>
+        Me interesa transformar ideas en proyectos reales mediante código,
+        automatización y mejora continua.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Enfoque</h3>
+      <p>▸ Desarrollo de software</p>
+      <p>▸ Automatización de procesos</p>
+      <p>▸ Aplicaciones web</p>
+      <p>▸ Procesamiento de datos</p>
+    </td>
+  </tr>
+</table>
 
-> Me interesa crear proyectos con interfaces claras, procesos eficientes y código que pueda mantenerse y mejorar con el tiempo.
+<div align="center">
+
+<img src="https://img.shields.io/badge/CREAR-Soluciones_útiles-1F6FEB?style=flat-square" alt="Crear soluciones útiles" />
+<img src="https://img.shields.io/badge/APRENDER-Mejora_continua-7C3AED?style=flat-square" alt="Aprendizaje continuo" />
+<img src="https://img.shields.io/badge/CONSTRUIR-Código_claro-238636?style=flat-square" alt="Código claro" />
+
+</div>
+
+<br>
+
+> 💡 Mi objetivo es convertir ideas en soluciones útiles, bien diseñadas y preparadas para crecer.
 
 ---
 
