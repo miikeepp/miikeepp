@@ -1,341 +1,133 @@
-<div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:312E81,70:6D28D9,100:8B5CF6&text=Maicol%20David%20Lagos&fontColor=FFFFFF&fontSize=42&fontAlignY=37&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=57&descSize=17&animation=fadeIn"
-  alt="Banner de Maicol David Lagos"
-/>
-
-<a href="https://github.com/miikeepp">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=820&height=46&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building%2C+learning+and+improving"
-    alt="Presentación animada"
-  />
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-Pro-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro" />
-<img src="https://img.shields.io/badge/Software-Engineering-4C1D95?style=flat-square&logo=codecrafters&logoColor=white" alt="Software Engineering" />
-
-<br><br>
-
-<a href="https://github.com/miikeepp">
-  <img src="https://img.shields.io/badge/GitHub-miikeepp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=miikeepp&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Visitas del perfil" />
-<img src="https://img.shields.io/github/followers/miikeepp?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/miikeepp?style=flat-square&color=6D28D9&label=STARS&logo=github" alt="Estrellas" />
-
-</div>
-
----
-
-## 🟣 About Me
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 Profile</h3>
-      <p>
-        I'm <strong>Maicol David Lagos</strong>, a Software Engineering student
-        focused on building clear, functional and maintainable applications.
-      </p>
-      <p>
-        I enjoy turning ideas into real projects, strengthening my development
-        skills through academic work, personal projects and continuous learning.
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🎯 Focus</h3>
-      <p>▸ Full Stack Development</p>
-      <p>▸ Software Engineering Practices</p>
-      <p>▸ Java, Python and TypeScript</p>
-      <p>▸ Clean and maintainable code</p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILD-Useful_Solutions-312E81?style=flat-square" alt="Useful solutions" />
-<img src="https://img.shields.io/badge/LEARN-Continuously-5B21B6?style=flat-square" alt="Continuous learning" />
-<img src="https://img.shields.io/badge/IMPROVE-Every_Project-7C3AED?style=flat-square" alt="Continuous improvement" />
-
-</div>
-
----
-
-## 🟣 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" alt="Java, Python, TypeScript and JavaScript" />
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
-
-</div>
-
-> More frameworks, databases and development tools will be added as the profile evolves.
-
----
-
-## 🟣 Featured Projects
-
-<details>
-<summary><strong>Ingeniería de Requisitos</strong></summary>
-
-<br>
-
-Academic repository focused on requirements engineering practices.
-
-| Aspect | Details |
-|:---|:---|
-| **Main language** | Python |
-| **Category** | Academic project |
-| **Repository** | [View repository](https://github.com/miikeepp/ingenieria_de_requisitos) |
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>Calidad de Software</strong></summary>
-
-<br>
-
-Repository related to software quality concepts, practices and coursework.
-
-| Aspect | Details |
-|:---|:---|
-| **Main language** | TypeScript |
-| **Category** | Academic project |
-| **Repository** | [View repository](https://github.com/miikeepp/Calidad-de-software) |
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>Patrones de Software</strong></summary>
-
-<br>
-
-Academic repository focused on software design patterns and structured development.
-
-| Aspect | Details |
-|:---|:---|
-| **Main language** | Java |
-| **Category** | Academic project |
-| **Repository** | [View repository](https://github.com/miikeepp/Patrones-de-software) |
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>Reproductor de Música</strong></summary>
-
-<br>
-
-Personal project centered on the development of a music player application.
-
-| Aspect | Details |
-|:---|:---|
-| **Main language** | TypeScript |
-| **Category** | Personal project |
-| **Repository** | [View repository](https://github.com/miikeepp/Reproductor-de-musica-) |
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>Sistema Veterinario</strong></summary>
-
-<br>
-
-Software project for managing information and processes in a veterinary context.
-
-| Aspect | Details |
-|:---|:---|
-| **Main language** | Java |
-| **Category** | Academic project |
-| **Repositories** | [Sistema-Veterinario-](https://github.com/miikeepp/Sistema-Veterinario-) · [sistemaveterinario](https://github.com/miikeepp/sistemaveterinario) |
-
-</details>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/miikeepp?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios" />
-</a>
-
-</div>
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Description |
-|:---:|:---|
-| 🏅 **Quickdraw** | Closed an issue or pull request shortly after opening it |
-| 🦈 **Pull Shark** | Earned through merged pull requests |
-| 🎲 **YOLO** | Merged a pull request without a review |
-| ⭐ **GitHub Pro** | Active GitHub Pro account |
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=7C3AED&text_color=111827&ring_color=7C3AED&include_all_commits=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true"
-    alt="GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB&langs_count=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=111827&langs_count=8"
-  />
-  <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8"
-    alt="Most used languages"
-  />
-</picture>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=miikeepp&hide_border=true&background=09090B&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6"
-  alt="GitHub contribution streak"
-/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img
-  width="95%"
-  src="https://github-profile-trophy.vercel.app/?username=miikeepp&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=miikeepp&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Contribution activity graph"
-/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  />
-</picture>
-
-</div>
-
----
-
-## 🟣 Current Focus
-
-```yaml
-learning:
-  - Software engineering principles
-  - Full stack development
-  - Clean and maintainable architecture
-
-building:
-  - Academic software projects
-  - Personal development projects
-
-improving:
-  - Problem solving
-  - Code quality
-  - Development workflow
-```
-
----
-
-## 🟣 Connect
-
-<div align="center">
-
-<a href="https://github.com/miikeepp">
-  <img src="https://img.shields.io/badge/GITHUB-MIIKEEPP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-<br><br>
-
-**Building with clarity, learning with purpose and improving with every project.**
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:8B5CF6,45:6D28D9,75:312E81,100:09090B"
-  alt="Footer banner"
-/>
-
-</div>
+<svg width="380" height="480" viewBox="0 0 380 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>HUD Scanning Profile - @miikeepp</title>
+
+  <defs>
+    <!-- Recorte con esquinas tecnológicas (cortadas) para la foto -->
+    <clipPath id="photoClip">
+      <path d="M84,80 L296,80 L320,104 L320,316 L296,340 L84,340 L60,316 L60,104 Z"/>
+    </clipPath>
+
+    <!-- Glow para la línea de escaneo -->
+    <filter id="scanGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Glow pulsante para el marco -->
+    <filter id="frameGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur">
+        <animate attributeName="stdDeviation" values="1;4;1" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradiente horizontal para la línea de escaneo -->
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7DF9FF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Patrón sutil de scanlines -->
+    <pattern id="scanlinesPattern" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="none"/>
+      <line x1="0" y1="0" x2="6" y2="0" stroke="#00F5FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- ===================== MARCO EXTERIOR HUD ===================== -->
+  <g filter="url(#frameGlow)">
+    <path d="M82,74 L298,74 L326,102 L326,318 L298,346 L82,346 L54,318 L54,102 Z"
+          fill="none" stroke="#00BFFF" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Esquinas técnicas tipo bracket -->
+  <g stroke="#00F5FF" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M40,84 L40,58 L66,58">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M314,58 L340,58 L340,84">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M340,336 L340,362 L314,362">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M66,362 L40,362 L40,336">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Radar giratorio decorativo (elemento HUD) -->
+  <g transform="translate(326,102)">
+    <circle r="10" fill="none" stroke="#7DF9FF" stroke-width="1.5"
+            stroke-dasharray="16 40" stroke-opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate"
+                         from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Ticks pequeños en los bordes del marco -->
+  <g fill="#00F5FF">
+    <circle cx="54" cy="210" r="3">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="326" cy="210" r="3">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="190" cy="74" r="3">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ===================== FOTO DE PERFIL ===================== -->
+  <image href="https://github.com/miikeepp.png"
+         xlink:href="https://github.com/miikeepp.png"
+         x="60" y="80" width="260" height="260"
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#photoClip)"/>
+
+  <!-- Scanlines sutiles sobre la foto -->
+  <rect x="60" y="80" width="260" height="260" fill="url(#scanlinesPattern)" clip-path="url(#photoClip)"/>
+
+  <!-- Línea de escaneo con glow -->
+  <rect x="60" y="80" width="260" height="6" fill="url(#scanGrad)"
+        filter="url(#scanGlow)" clip-path="url(#photoClip)">
+    <animate attributeName="y" values="80;340;80" keyTimes="0;0.5;1"
+             dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.9;1"
+             dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Overlay leve de tinte cyan que respira sobre la foto -->
+  <rect x="60" y="80" width="260" height="260" fill="#00F5FF" clip-path="url(#photoClip)">
+    <animate attributeName="opacity" values="0.03;0.09;0.03" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ===================== TEXTO ESTILO SISTEMA ===================== -->
+  <g font-family="Consolas, 'Courier New', monospace" letter-spacing="2">
+    <text x="190" y="378" text-anchor="middle" font-size="15" fill="#00F5FF">
+      SCANNING...
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.4s" repeatCount="indefinite"/>
+    </text>
+
+    <circle cx="112" cy="401" r="4" fill="#7DF9FF">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="122" y="406" font-size="13" fill="#00BFFF">STATUS: ONLINE</text>
+
+    <text x="190" y="432" text-anchor="middle" font-size="12" fill="#7DF9FF" letter-spacing="1">
+      USER: @miikeepp
+    </text>
+
+    <!-- Línea separadora HUD -->
+    <line x1="80" y1="415" x2="300" y2="415" stroke="#00F5FF" stroke-width="1" stroke-opacity="0.25"/>
+  </g>
+</svg>
