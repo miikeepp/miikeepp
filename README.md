@@ -1,17 +1,16 @@
-````markdown
 <div align="center">
 
-# 👋 Hola, soy **Maicol David Lagos**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Maicol%20David%20Lagos&fontAlignY=38&desc=Desarrollo%20de%20software%20%7C%20Automatizaci%C3%B3n%20%7C%20Datos&descAlignY=58&animation=fadeIn" width="100%" alt="Banner de Maicol David Lagos" />
 
-### 💻 Desarrollo de software · Automatización · Datos
+<h3>👋 Hola, soy Maicol David Lagos</h3>
 
-**Construyo herramientas que transforman procesos complejos en soluciones simples, eficientes y útiles.**
+<p>
+Construyo herramientas que convierten procesos complejos en soluciones simples, eficientes y útiles.
+</p>
 
-![Python](https://img.shields.io/badge/Python-Automatización-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Desarrollo-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Aplicaciones-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Bases_de_datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-Automatización-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<a href="https://github.com/mikeepp">
+  <img src="https://img.shields.io/badge/GitHub-mikeepp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -19,94 +18,32 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador interesado en crear soluciones digitales que automaticen tareas, organicen información y faciliten el análisis de datos.
+Soy desarrollador interesado en crear soluciones digitales, automatizar tareas y organizar información mediante aplicaciones claras y funcionales.
 
-Me gusta trabajar en proyectos que integren diferentes tecnologías, desde la recolección y procesamiento de información hasta la construcción de interfaces claras y funcionales.
-
-```typescript
-const developer = {
-  enfoque: [
-    "Desarrollo de software",
-    "Automatización de procesos",
-    "Web scraping",
-    "Procesamiento de datos",
-    "Aplicaciones web"
-  ],
-
-  tecnologias: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Python", "Node.js"],
-    basesDeDatos: ["MySQL", "SQL"],
-    automatizacion: ["Playwright", "Requests"],
-    infraestructura: ["Linux", "Nginx", "PM2", "GitHub"]
-  },
-
-  objetivo: "Crear soluciones útiles, escalables y fáciles de mantener."
-};
-````
+- 💻 Desarrollo de aplicaciones web
+- ⚙️ Automatización de procesos
+- 📊 Procesamiento y visualización de datos
+- 🧩 Aprendizaje y mejora continua
 
 ---
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,tailwind,mysql,nodejs,git,github,linux,vscode" alt="Tecnologías y herramientas" />
 
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-
-### Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+</div>
 
 ---
 
-## 🧩 Lo que me gusta construir
+## 🎯 En qué estoy trabajando
 
 ```text
-IDEA
-  │
-  ▼
-ANÁLISIS DEL PROBLEMA
-  │
-  ▼
-DISEÑO DE LA SOLUCIÓN
-  │
-  ▼
-DESARROLLO
-  │
-  ▼
-PRUEBAS Y VALIDACIÓN
-  │
-  ▼
-AUTOMATIZACIÓN
-  │
-  ▼
-MEJORA CONTINUA
+IDEA → ANÁLISIS → DESARROLLO → PRUEBAS → MEJORA CONTINUA
 ```
 
----
-
-## 📌 Áreas de interés
-
-* Automatización de tareas repetitivas.
-* Extracción y procesamiento de datos.
-* Desarrollo de aplicaciones web.
-* Bases de datos y consultas SQL.
-* Diseño de dashboards.
-* Integración entre frontend y backend.
-* Optimización y mantenimiento de software.
-* Herramientas de código abierto.
+Me interesa construir proyectos útiles, fáciles de mantener y preparados para crecer.
 
 ---
 
@@ -114,19 +51,15 @@ MEJORA CONTINUA
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroBast\&show_icons=true\&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mikeepp&show_icons=true&hide_border=true&theme=github_dark&locale=es" alt="Estadísticas de GitHub" />
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBast\&layout=compact\&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeepp&layout=compact&hide_border=true&theme=github_dark&locale=es" alt="Lenguajes más utilizados" />
 
 </div>
 
----
-
-## 🔥 Actividad
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroBast\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=mikeepp&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
@@ -136,11 +69,9 @@ MEJORA CONTINUA
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlejandroBast-181717?style=for-the-badge\&logo=github)](https://github.com/AlejandroBast)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](TU_ENLACE_DE_LINKEDIN)
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](TU_ENLACE_DE_PORTAFOLIO)
+<a href="https://github.com/mikeepp">
+  <img src="https://img.shields.io/badge/GitHub-mikeepp-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
+</a>
 
 </div>
 
@@ -148,11 +79,8 @@ MEJORA CONTINUA
 
 <div align="center">
 
-### 💡
+### ✨ Código claro, soluciones útiles y aprendizaje constante.
 
-> **“El mejor código no es el más complicado, sino el que resuelve el problema de forma clara y eficiente.”**
-
-⭐ Construyendo, aprendiendo y mejorando proyecto a proyecto.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" width="100%" alt="Pie de página" />
 
 </div>
-```
