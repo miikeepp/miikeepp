@@ -1,28 +1,34 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=miikeepp&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:312E81,70:6D28D9,100:8B5CF6&text=Maicol%20David%20Lagos&fontColor=FFFFFF&fontSize=42&fontAlignY=37&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=57&descSize=17&animation=fadeIn"
+  alt="Banner de Maicol David Lagos"
+/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+%7C+TypeScript;Building+Academic+%2B+Personal+Projects" alt="Typing SVG" />
+<a href="https://github.com/miikeepp">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=820&height=46&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building%2C+learning+and+improving"
+    alt="Presentación animada"
+  />
 </a>
 
-<br/>
+<br>
 
-![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-6D28D9?style=flat-square&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Location-null-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-Pro-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro" />
+<img src="https://img.shields.io/badge/Software-Engineering-4C1D95?style=flat-square&logo=codecrafters&logoColor=white" alt="Software Engineering" />
 
-<br/>
+<br><br>
 
-<a href="null"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="null"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:null"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/miikeepp"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/miikeepp">
+  <img src="https://img.shields.io/badge/GitHub-miikeepp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br/><br/>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=miikeepp&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/miikeepp?style=flat-square&color=7c3aed&label=Followers)
-![Stars](https://img.shields.io/github/stars/miikeepp?style=flat-square&color=6d28d9&label=Stars)
+<img src="https://komarev.com/ghpvc/?username=miikeepp&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Visitas del perfil" />
+<img src="https://img.shields.io/github/followers/miikeepp?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/miikeepp?style=flat-square&color=6D28D9&label=STARS&logo=github" alt="Estrellas" />
 
 </div>
 
@@ -30,21 +36,36 @@
 
 ## 🟣 About Me
 
-```
-const developer = {
-    username: "miikeepp",
-    role: "Software Engineering Student & Full Stack Developer",
-    focus: ["Full Stack Development", "Software Engineering Practices", "Java / Python / TypeScript"],
-    repositories: 34,
-    stars: 2,
-    achievements: ["Quickdraw", "Pull Shark", "YOLO"],
-    currentlyOpenTo: null
-};
-```
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 Profile</h3>
+      <p>
+        I'm <strong>Maicol David Lagos</strong>, a Software Engineering student
+        focused on building clear, functional and maintainable applications.
+      </p>
+      <p>
+        I enjoy turning ideas into real projects, strengthening my development
+        skills through academic work, personal projects and continuous learning.
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🎯 Focus</h3>
+      <p>▸ Full Stack Development</p>
+      <p>▸ Software Engineering Practices</p>
+      <p>▸ Java, Python and TypeScript</p>
+      <p>▸ Clean and maintainable code</p>
+    </td>
+  </tr>
+</table>
 
-Based on the public GitHub profile, **miikeepp** works across **Java, Python, and TypeScript**, with repositories reflecting formal software engineering coursework — including requirements engineering (*ingeniería de requisitos*), software quality (*calidad de software*), and design patterns (*patrones de software*) — alongside applied projects such as a music player and a veterinary management system. This points to a **software engineering student profile with full-stack development practice**, actively building across both academic and personal projects.
+<div align="center">
 
-**🎯 Open To:** *null (not publicly listed — add manually)*
+<img src="https://img.shields.io/badge/BUILD-Useful_Solutions-312E81?style=flat-square" alt="Useful solutions" />
+<img src="https://img.shields.io/badge/LEARN-Continuously-5B21B6?style=flat-square" alt="Continuous learning" />
+<img src="https://img.shields.io/badge/IMPROVE-Every_Project-7C3AED?style=flat-square" alt="Continuous improvement" />
+
+</div>
 
 ---
 
@@ -52,135 +73,116 @@ Based on the public GitHub profile, **miikeepp** works across **Java, Python, an
 
 <div align="center">
 
-**Languages** *(confirmed from public repositories)*
-![Skills](https://skillicons.dev/icons?i=java,python,ts,js&theme=dark)
+### Languages
 
-**Frontend** *(not publicly determinable — null)*
+<img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" alt="Java, Python, TypeScript and JavaScript" />
 
-**Backend & Databases** *(not publicly determinable — null)*
+<br><br>
 
-**Cloud, DevOps & Tooling** *(not publicly determinable — null)*
+### Development Tools
 
-*Note: GitHub only exposes the primary language per repository, so this list reflects what's visible on the profile. Add frameworks/tools manually for a complete picture.*
-
-</div>
-
----
-
-## 🟣 AI / ML Expertise
-
-<div align="center">
-
-*No AI/ML repositories or activity were found on the public profile — this section is null. Remove it, or fill it in yourself if it applies.*
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
 
 </div>
+
+> More frameworks, databases and development tools will be added as the profile evolves.
 
 ---
 
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🔹 Ingeniería de Requisitos</b></summary>
-<br/>
+<summary><strong>Ingeniería de Requisitos</strong></summary>
 
-Repositorio académico enfocado en ingeniería de requisitos.
+<br>
+
+Academic repository focused on requirements engineering practices.
 
 | Aspect | Details |
-|---|---|
-| **Stack** | Python |
-| **Scale** | null |
-| **Performance** | null |
-| **Security** | null |
-| **Impact** | Proyecto académico / de curso |
-| **Repository** | [ingenieria_de_requisitos](https://github.com/miikeepp/ingenieria_de_requisitos) |
-
-null (descripción detallada no disponible públicamente)
+|:---|:---|
+| **Main language** | Python |
+| **Category** | Academic project |
+| **Repository** | [View repository](https://github.com/miikeepp/ingenieria_de_requisitos) |
 
 </details>
+
+<br>
 
 <details>
-<summary><b>🔹 Calidad de Software</b></summary>
-<br/>
+<summary><strong>Calidad de Software</strong></summary>
 
-Repositorio relacionado con prácticas de calidad de software.
+<br>
+
+Repository related to software quality concepts, practices and coursework.
 
 | Aspect | Details |
-|---|---|
-| **Stack** | TypeScript |
-| **Scale** | null |
-| **Performance** | null |
-| **Security** | null |
-| **Impact** | Proyecto académico / de curso |
-| **Repository** | [Calidad-de-software](https://github.com/miikeepp/Calidad-de-software) |
-
-null (descripción detallada no disponible públicamente)
+|:---|:---|
+| **Main language** | TypeScript |
+| **Category** | Academic project |
+| **Repository** | [View repository](https://github.com/miikeepp/Calidad-de-software) |
 
 </details>
+
+<br>
 
 <details>
-<summary><b>🔹 Patrones de Software</b></summary>
-<br/>
+<summary><strong>Patrones de Software</strong></summary>
 
-Repositorio enfocado en patrones de diseño de software.
+<br>
+
+Academic repository focused on software design patterns and structured development.
 
 | Aspect | Details |
-|---|---|
-| **Stack** | Java |
-| **Scale** | null |
-| **Performance** | null |
-| **Security** | null |
-| **Impact** | Proyecto académico / de curso |
-| **Repository** | [Patrones-de-software](https://github.com/miikeepp/Patrones-de-software) |
-
-null (descripción detallada no disponible públicamente)
+|:---|:---|
+| **Main language** | Java |
+| **Category** | Academic project |
+| **Repository** | [View repository](https://github.com/miikeepp/Patrones-de-software) |
 
 </details>
+
+<br>
 
 <details>
-<summary><b>🔹 Reproductor de Música</b></summary>
-<br/>
+<summary><strong>Reproductor de Música</strong></summary>
 
-Aplicación de reproductor de música.
+<br>
+
+Personal project centered on the development of a music player application.
 
 | Aspect | Details |
-|---|---|
-| **Stack** | TypeScript |
-| **Scale** | null |
-| **Performance** | null |
-| **Security** | null |
-| **Impact** | Proyecto personal |
-| **Repository** | [Reproductor-de-musica-](https://github.com/miikeepp/Reproductor-de-musica-) |
-
-null (descripción detallada no disponible públicamente)
+|:---|:---|
+| **Main language** | TypeScript |
+| **Category** | Personal project |
+| **Repository** | [View repository](https://github.com/miikeepp/Reproductor-de-musica-) |
 
 </details>
+
+<br>
 
 <details>
-<summary><b>🔹 Sistema Veterinario</b></summary>
-<br/>
+<summary><strong>Sistema Veterinario</strong></summary>
 
-Sistema de gestión para clínica veterinaria (dos repositorios relacionados).
+<br>
+
+Software project for managing information and processes in a veterinary context.
 
 | Aspect | Details |
-|---|---|
-| **Stack** | Java |
-| **Scale** | null |
-| **Performance** | null |
-| **Security** | null |
-| **Impact** | Proyecto académico / de curso |
-| **Repository** | [Sistema-Veterinario-](https://github.com/miikeepp/Sistema-Veterinario-) · [sistemaveterinario](https://github.com/miikeepp/sistemaveterinario) |
-
-null (descripción detallada no disponible públicamente)
+|:---|:---|
+| **Main language** | Java |
+| **Category** | Academic project |
+| **Repositories** | [Sistema-Veterinario-](https://github.com/miikeepp/Sistema-Veterinario-) · [sistemaveterinario](https://github.com/miikeepp/sistemaveterinario) |
 
 </details>
 
-*Nota: el perfil tiene 34 repositorios en total; aquí solo se listan los que GitHub marca como "Popular repositories". Puedes explorar el resto en [github.com/miikeepp?tab=repositories](https://github.com/miikeepp?tab=repositories).*
+<br>
 
----
+<div align="center">
 
-## 🟣 Experience
+<a href="https://github.com/miikeepp?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios" />
+</a>
 
-*No hay información de experiencia laboral disponible públicamente en el perfil de GitHub. Esta sección queda en `null` — agrégala manualmente si aplica.*
+</div>
 
 ---
 
@@ -188,26 +190,14 @@ null (descripción detallada no disponible públicamente)
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏅 Quickdraw | Cerró un issue o PR en menos de 5 minutos de haberlo abierto |
-| 🦈 Pull Shark | Tiene pull requests fusionados en GitHub |
-| 🎲 YOLO | Fusionó un pull request sin revisión |
-| ⭐ GitHub Pro | Cuenta con suscripción GitHub Pro |
+| Recognition | Description |
+|:---:|:---|
+| 🏅 **Quickdraw** | Closed an issue or pull request shortly after opening it |
+| 🦈 **Pull Shark** | Earned through merged pull requests |
+| 🎲 **YOLO** | Merged a pull request without a review |
+| ⭐ **GitHub Pro** | Active GitHub Pro account |
 
 </div>
-
----
-
-## 🟣 Certifications
-
-*No hay certificaciones visibles en el perfil público de GitHub. Sección en `null` — complétala manualmente si tienes certificaciones de AWS, Oracle, NPTEL, Cisco, etc.*
-
----
-
-## 🟣 Coding Profiles
-
-*No hay perfiles de LeetCode, GeeksforGeeks, HackerRank o CodeChef vinculados públicamente. Sección en `null`.*
 
 ---
 
@@ -215,10 +205,44 @@ null (descripción detallada no disponible públicamente)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miikeepp&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=7C3AED&text_color=111827&ring_color=7C3AED&include_all_commits=true"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=miikeepp&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true"
+    alt="GitHub statistics"
+  />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB&langs_count=8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=111827&langs_count=8"
+  />
+  <img
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikeepp&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8"
+    alt="Most used languages"
+  />
+</picture>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=miikeepp&hide_border=true&background=09090B&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -228,7 +252,11 @@ null (descripción detallada no disponible públicamente)
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=miikeepp&theme=radical&no-frame=true&column=7&margin-w=10)
+<img
+  width="95%"
+  src="https://github-profile-trophy.vercel.app/?username=miikeepp&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  alt="GitHub trophies"
+/>
 
 </div>
 
@@ -238,7 +266,11 @@ null (descripción detallada no disponible públicamente)
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miikeepp&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
+<img
+  width="96%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=miikeepp&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Contribution activity graph"
+/>
 
 </div>
 
@@ -248,7 +280,21 @@ null (descripción detallada no disponible públicamente)
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/miikeepp/miikeepp/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
 
 </div>
 
@@ -257,41 +303,39 @@ null (descripción detallada no disponible públicamente)
 ## 🟣 Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - null
-    - null
-  building:
-    - null
-    - null
-  exploring:
-    - null
-    - null
-  open_to:
-    - Full-time roles
-    - Freelance projects
-    - Open-source collaboration
+learning:
+  - Software engineering principles
+  - Full stack development
+  - Clean and maintainable architecture
+
+building:
+  - Academic software projects
+  - Personal development projects
+
+improving:
+  - Problem solving
+  - Code quality
+  - Development workflow
 ```
 
 ---
 
-## 🟣 Connect With Me
+## 🟣 Connect
 
 <div align="center">
 
-<a href="mailto:null"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="null"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/miikeepp"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="null"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/miikeepp">
+  <img src="https://img.shields.io/badge/GITHUB-MIIKEEPP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
-</div>
+<br><br>
 
----
+**Building with clarity, learning with purpose and improving with every project.**
 
-<div align="center">
-
-*"null"*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:8B5CF6,45:6D28D9,75:312E81,100:09090B"
+  alt="Footer banner"
+/>
 
 </div>
