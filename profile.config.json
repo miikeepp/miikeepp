@@ -1,0 +1,113 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Michael David Lagos",
+    "username": "miikeepp",
+    "headline": "Building Modern Software",
+    "affiliation": "Universidad Cooperativa de Colombia",
+    "location": "Pasto, Colombia",
+    "status": "Learning • Building • Open to Work",
+    "about": [
+      "I'm a Software Engineering student focused on designing and building reliable software. I enjoy turning ideas into practical applications while continuously improving my skills through academic and personal projects.",
+      "My interests include backend engineering, cloud technologies, software architecture, and AI. I value clean code, scalable solutions, and continuous learning by building projects that solve real-world problems."
+    ]
+  },
+  "research": {
+    "primary": "Backend Engineering",
+    "direction": "Software Architect & AI Engineer",
+    "themes": "Backend / Cloud / AI",
+    "narrative": "I focus on building software that is reliable, scalable, and maintainable. My goal is to deepen my expertise in backend engineering, cloud technologies, and software architecture while applying AI to create practical solutions for real-world challenges."
+  },
+  "focus": [
+    {
+      "name": "Backend Development",
+      "description": "Building secure and scalable APIs using modern frameworks and best practices."
+    },
+    {
+      "name": "Cloud Computing",
+      "description": "Learning cloud-native technologies and designing resilient distributed systems."
+    },
+    {
+      "name": "Software Architecture",
+      "description": "Designing maintainable applications with clean architecture and scalable patterns."
+    },
+    {
+      "name": "Artificial Intelligence",
+      "description": "Exploring AI tools and intelligent systems to solve practical problems."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Para Cálculo",
+      "url": "https://github.com/miikeepp/Para-Calculo",
+      "homepage": "https://para-calculo.vercel.app/",
+      "focus": "Academic calculus support tool",
+      "summary": "A personal project built to support calculus practice and study, showing applied frontend fundamentals with React and TypeScript.",
+      "heroLabel": "Primary build"
+    },
+    {
+      "name": "Mentes Creativas",
+      "url": "https://github.com/AlejandroBast/MentesCreativas",
+      "homepage": "https://mentes-creativas.vercel.app/",
+      "focus": "Collaborative creativity web app",
+      "summary": "Collaboration built during software engineering coursework, focused on creativity and teamwork using React and JavaScript.",
+      "heroLabel": "Collaboration"
+    },
+    {
+      "name": "Tinck Cash",
+      "url": "https://github.com/AlejandroBast/EstructuraPatrones-front",
+      "homepage": "https://estructura-patrones-front.vercel.app/inicio",
+      "focus": "Design patterns & frontend structure",
+      "summary": "Collaborative frontend exercise applying software design patterns and clean code structure with React and TypeScript.",
+      "heroLabel": "Collaboration"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Java",
+    "SQL",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "MongoDB",
+    "AWS",
+    "Docker",
+    "GitHub Actions",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "miikeepp",
+      "url": "https://github.com/miikeepp",
+      "logo": "github",
+      "color": "181717"
+    },
+    {
+      "label": "Portfolio",
+      "value": "View site",
+      "url": "https://portafolio-prueba-tau.vercel.app/",
+      "logo": "vercel",
+      "color": "000000"
+    },
+    {
+      "label": "Resume",
+      "value": "CV (PDF)",
+      "url": "https://portafolio-prueba-tau.vercel.app/cv.pdf",
+      "logo": "readdotcv",
+      "color": "2563EB"
+    }
+  ],
+  "activity": {
+    "enabled": false,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Building reliable software, one project at a time."
+}
